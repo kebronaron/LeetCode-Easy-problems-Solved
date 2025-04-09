@@ -1,7 +1,7 @@
 # LeetCode-Easy-problems-Solved
 – Solved in C# 
 
-This repo contains solutions to classic beginner LeetCode problems: 
+This repo contains solutions to LeetCode problems: 
         - Two Sum - Remove Element -
         -  Merge Sorted Array
         -   - Sort by Parity
